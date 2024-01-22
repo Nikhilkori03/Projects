@@ -38,4 +38,3 @@ ___
             padding: 0.1em;">
 
 ## Thank You
-# Projects

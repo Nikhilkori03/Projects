@@ -3,7 +3,7 @@
 
 ### [Sales Data Analysis](https://github.com/Nikhilkori03/Sala-Data-Analysis)
 
-
+### [Diabetes Prediction](https://github.com/Nikhilkori03/Diabetes-Prediction)
 
 ___
 

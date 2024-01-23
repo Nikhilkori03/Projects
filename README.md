@@ -5,6 +5,8 @@
 
 ### [Diabetes Prediction](https://github.com/Nikhilkori03/Diabetes-Prediction)
 
+### [HR Analysis](https://github.com/Nikhilkori03/HR-Dashboard)
+
 ___
 
 

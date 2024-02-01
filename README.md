@@ -5,7 +5,7 @@
 
 ### [Diabetes Prediction using Django](https://github.com/Nikhilkori03/Diabetes-Prediction)
 
-### [Diabetes Prediction using Streamlit]
+### [Diabetes Prediction using Streamlit](https://github.com/Nikhilkori03/Diabetes-Prediction-using-Streamlit)
 
 ### [HR Analysis](https://github.com/Nikhilkori03/HR-Dashboard)
 

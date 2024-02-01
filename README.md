@@ -3,7 +3,9 @@
 
 ### [Sales Data Analysis](https://github.com/Nikhilkori03/Sala-Data-Analysis)
 
-### [Diabetes Prediction](https://github.com/Nikhilkori03/Diabetes-Prediction)
+### [Diabetes Prediction using Django](https://github.com/Nikhilkori03/Diabetes-Prediction)
+
+### [Diabetes Prediction using Streamlit]
 
 ### [HR Analysis](https://github.com/Nikhilkori03/HR-Dashboard)
 

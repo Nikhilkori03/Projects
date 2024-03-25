@@ -1,5 +1,6 @@
 # Projects
 
+### [Bank Loan Analysis](https://github.com/Nikhilkori03/Bank-Loan-Analysis/tree/main)
 
 ### [Sales Data Analysis](https://github.com/Nikhilkori03/Sala-Data-Analysis)
 
